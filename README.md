@@ -1,5 +1,10 @@
-# Sankiedark
+# Sankiedark 
+![logo](https://github.com/Sankie005/Sankiedark/blob/a119b2a2f15def5b78cccc2e01be075cc438b13c/sankiedarklogo.png)
+
+
 ###A dark and warm theme for visual studio code
+
+
 Available for download at: https://marketplace.visualstudio.com/items?itemName=Sankie005.sankiedark
 
 
