@@ -2,8 +2,9 @@
   "name": "sankiedark",
   "displayName": "Sankiedark",
   "description": "Make Vscode easier on your eyes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Sankie005",
+  "icon": "sankiedarklogo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Sankie005/Sankiedark"
